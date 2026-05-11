@@ -1,2 +1,2 @@
-# Projeto-Integrador
-Repositório da aula de Projeto Integrador
+# Integrator Project
+Integrator project class repository
