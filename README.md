@@ -1,9 +1,11 @@
-# Integrator Project
+# Projeto Integrador
 ____
-This is the repository for storage of Integration Project activities classes.
+Esse é o repositório para armazenamento das atividades em aulas de Projeto Integrador
 ____
-# Repository Content
-- Site creation;
-  - Figma use;
-  - Do a reference selection;
-  - Define what each one will do;
+# Conteúdo do Repositório
+- Criação de Site
+  - Uso do Figma;
+  - Seleção de Referência;
+  - Definir o que cada um irá fazer;
+
+- Site da Sepe
